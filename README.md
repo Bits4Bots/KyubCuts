@@ -1,7 +1,7 @@
 # KyubCuts
-Laser cut projects designed in Kyub by Bits4Bots LLC.
-Designer: Larsha Johnson EE Undergrad
-e larsha@bits4bots.com
+Laser cut projects designed by Bits4Bots LLC.
+Designer: Larsha Johnson
+larsha@bits4bots.com
 These are free files created in Kyub.
 Feel free to comment, recreate, and leave feedback.
 
